@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aifJ/5LFzC0dDe9ACY8Q2FK6H5AhjAefLdBXBXuVvw0jvppXgP3oJcbvTv02EsJK5CJcqaSYxPo01LdqO/Oh5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\najwa\\Desktop\\Done Api\\MovieManagementCQRSDemo\\MovieManagement.Library\\MovieManagement.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\najwa\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
